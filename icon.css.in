@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "FGI-icons";
+	src: url("../icons/FGI-icons.eot?__CACHE_HINT_PLACEHOLDER__") format("embedded-opentype"),
+url("../icons/FGI-icons.woff2?__CACHE_HINT_PLACEHOLDER__") format("woff2"),
+url("../icons/FGI-icons.woff?__CACHE_HINT_PLACEHOLDER__") format("woff"),
+url("../icons/FGI-icons.ttf?__CACHE_HINT_PLACEHOLDER__") format("truetype");
+}
+
+span.icon:before {
+	font-family: FGI-icons !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	content: attr(data-icon);
+}

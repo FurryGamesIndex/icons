@@ -11,3 +11,6 @@ fantasticon src \
 	--name FGI-icons \
 	--normalize \
 	--output build
+
+build_id=$(date +%s)
+sed "s/__CACHE_HINT_PLACEHOLDER__/hc=uquery\&t=${build_id}/g" icon.css.in > build/icon.css
