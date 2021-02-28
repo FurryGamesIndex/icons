@@ -10,6 +10,8 @@ fantasticon src \
 	--asset-types css html json \
 	--name FGI-icons \
 	--normalize \
+	--font-height 1000 \
+	--descent 130 \
 	--output build
 
 build_id=$(date +%s)

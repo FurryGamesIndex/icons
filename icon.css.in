@@ -17,3 +17,9 @@ span.icon:before {
 	-moz-osx-font-smoothing: grayscale;
 	content: attr(data-icon);
 }
+
+span.icon {
+	line-height: 1;
+	text-align: center;
+	width: 1.25em
+}
