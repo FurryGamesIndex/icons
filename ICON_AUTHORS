@@ -1,11 +1,13 @@
-From Google material design icons
-https://github.com/google/material-design-icons/
-LICENSE: Apache License 2.0 (https://github.com/google/material-design-icons/blob/master/LICENSE)
-  misc/home.svg
+From 967018
+https://github.com/967018
+LICENSE: Apache License 2.0
+  misc/close.svg
   misc/language.svg
-  misc/email.svg
-  misc/settings.svg
-  site/website.svg
+  os/ios.svg
+  os/macos.svg
+  site/app-store.svg
+  site/microsoft-store.svg
+  site/playstation-store.svg
 
 From Font Awesome:
 https://github.com/FortAwesome/Font-Awesome
