@@ -6,12 +6,12 @@
 rm -rf build
 mkdir build
 fantasticon src \
-	--font-types eot woff2 woff ttf \
+	--font-types woff2 woff ttf \
 	--asset-types css html json \
 	--name FGI-icons \
 	--normalize \
-	--font-height 1000 \
-	--descent 130 \
+	--font-height 100 \
+	--descent 13 \
 	--output build
 
 build_id=$(date +%s)
