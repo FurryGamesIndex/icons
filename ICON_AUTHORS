@@ -9,6 +9,11 @@ LICENSE: Apache License 2.0
   site/microsoft-store.svg
   site/playstation-store.svg
 
+From CoreUI Icons:
+https://github.com/coreui/coreui-icons
+LICENSE: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+  site/fur-affinity.svg
+
 From Font Awesome:
 https://github.com/FortAwesome/Font-Awesome
 LICENSE: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
