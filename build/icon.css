@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "FGI-icons";
-	src: url("../icons/FGI-icons.woff2?hc=uquery&t=1614855666&cors_uid=v2_icons_FGI-icons.woff2") format("woff2"),
-url("../icons/FGI-icons.woff?hc=uquery&t=1614855666&cors_uid=v2_icons_FGI-icons.woff") format("woff"),
-url("../icons/FGI-icons.ttf?hc=uquery&t=1614855666&cors_uid=v2_icons_FGI-icons.ttf") format("truetype");
+	src: url("../icons/FGI-icons.woff2?hc=uquery&t=1615116867&cors_uid=v2_icons_FGI-icons.woff2") format("woff2"),
+url("../icons/FGI-icons.woff?hc=uquery&t=1615116867&cors_uid=v2_icons_FGI-icons.woff") format("woff"),
+url("../icons/FGI-icons.ttf?hc=uquery&t=1615116867&cors_uid=v2_icons_FGI-icons.ttf") format("truetype");
 }
 
 span.icon:before {
