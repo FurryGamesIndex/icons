@@ -6,6 +6,7 @@ url("../icons/FGI-icons.ttf?__CACHE_HINT_PLACEHOLDER__&cors_uid=v2_icons_FGI-ico
 }
 
 span.icon:before {
+	display: inline-block;
 	font-family: "FGI-icons" !important;
 	font-style: normal;
 	font-weight: normal !important;
